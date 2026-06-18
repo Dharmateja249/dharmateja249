@@ -13,7 +13,7 @@ Computer Science Undergraduate at BVRIT (CGPA: 8.66)
 
 * Languages: C++, Java, Python, C
 * Frontend: HTML, CSS, JavaScript, React.js
-* Backend: Node.js
+* Backend: Node.js, express.js
 * Database: MongoDB, MySQL
 * Tools: Git, GitHub, JWT, Socket.io
 
