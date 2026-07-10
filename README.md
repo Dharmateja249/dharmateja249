@@ -1,4 +1,4 @@
-# Hi, I'm Golla Dharmateja 👋
+# Hi, I'm Dharmateja 👋
 
 Computer Science Undergraduate at BVRIT (CGPA: 8.66)
 
