@@ -6,7 +6,6 @@ Computer Science Undergraduate at BVRIT (CGPA: 8.66)
 
 * Interested in Software Engineering, Full-Stack Development, and AI
 * IEEE Conference Author
-* NCC B Certificate Holder
 * Passionate about building impactful products
 
 ## Tech Stack
