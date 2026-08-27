@@ -1,4 +1,8 @@
-# Hey, I'm Dharmateja 👋
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:22d3ee&height=200&section=header&text=Dharmateja&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20%7C%20Fullstack%20%26%20GenAI&descAlignY=55&descSize=20)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dharmateja249&color=6366f1&style=flat" alt="Profile Views" />
+</p>
 
 Software Engineer focused on fullstack and backend development — currently deep in GenAI, learning to build products that actually use it well instead of bolting a chatbot onto everything.
 
@@ -6,70 +10,145 @@ I like taking a project from "idea on a whiteboard" to something with a working 
 
 ---
 
-## 🔭 Currently
+## 🔭 Right Now
 
-- Building fullstack projects where GenAI is the core feature, not a gimmick — think document Q&A tools and AI-assisted interview prep, not "ChatGPT wrapper #4,721"
-- Applying for backend/fullstack software engineering internships
-- Open to **remote roles** and **freelance work** — if you need something built, my inbox is open
+Building **LibrisAI** and **Revora** (details below). Also applying for backend/fullstack software engineering internships, and open to **remote roles** and **freelance work** — if you need something built, my inbox is open.
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Languages**
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+<p>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+</p>
 
 **Frontend**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</p>
 
 **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+</p>
 
 **Databases**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
 
-**ML / Data**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+**GenAI / ML**
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
 
 **Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
+
 ---
 
-## 🚀 Projects I'm Proud Of
+## 🚀 Currently Building
 
-### [CollabX](https://github.com/Dharmateja249/collabx) — Hackathon Team-Up Platform
-A fullstack platform that helps hackathon participants find teammates by matching on skills and interests, instead of relying on random Discord pings and last-minute scrambling.
+### 📚 LibrisAI
+An AI-powered intelligent reading platform that turns books into interactive, personalized learning experiences — not just a PDF viewer with a chatbot bolted on.
+
+- 📄 **PDF Book Import** — upload PDFs, auto-extract and structure the content
+- 🧠 **Structured Insights** — books broken into segments with summaries and key takeaways
+- 🔐 **Secure User Libraries** — Clerk auth with user-scoped access and ownership validation
+- 🗄️ **Persistent Storage** — MongoDB + Mongoose for books, segments, users, voice sessions
+- 🎙️ **Voice Interviews** — interactive voice conversations around book content
+- 🗑️ **Book Management** — secure create/retrieve/delete with cascading cleanup
+
+**Stack:** `Next.js` `React` `TypeScript` `Tailwind CSS` `MongoDB` `Mongoose` `Clerk` `PDF.js` `Vercel Blob`
+🔗 [View Repository](https://github.com/Dharmateja249/LibrisAI)
+
+### 🔄 Revora — Adaptive Payment Recovery Agent
+An AI-powered system that recovers failed transactions by retrieving relevant historical recovery outcomes at decision time, instead of leaning on a static ML model trained on stale data.
+
+- 🔎 RAG-based retrieval layer to find similar customers, past failures, and what actually worked
+- 🤖 Context-aware decision engine recommending `RETRY`, `PAYMENT_LINK`, `REMINDER`, or `ESCALATE`
+- 🔄 Closed-loop feedback — the system checks whether a recovery actually succeeded before trusting it as a good strategy
+- 📊 Full audit trail across customers, payments, recovery opportunities, and attempts
+- 🗄️ Historical-data ingestion with validation, dedup, idempotency, and DB migrations
+- ♻️ Built to adapt from new outcomes continuously, without full retraining
+
+**Goal:** evolve into a production-oriented recovery platform combining retrieval, LLM reasoning, real-time payment context, and outcome-driven adaptation.
+
+**Tech focus:** `Python` `FastAPI` `SQLAlchemy` `SQLite/PostgreSQL` `Alembic` `RAG` `LLMs` `Embeddings` `Vector Databases` `AI Agents` `Evaluation & Observability`
+🔗 [View Repository](https://github.com/Dharmateja249/Revora)
+
+---
+
+## 🏆 Shipped Projects
+
+### CollabX — Hackathon Team-Up Platform
+A fullstack platform that helps hackathon participants find teammates by matching on skills and interests, instead of relying on random Discord pings and last-minute scrambling. Handles real-time interactions and auth end-to-end.
+
 **Built with:** React.js · Node.js · Express.js · MongoDB · Socket.io · JWT
-Handles real-time interactions and auth end-to-end — this is where I actually learned what "full-stack" means beyond the buzzword.
 
 ### Student Mental Health Prediction System
 A machine learning system that predicts student mental health risk factors from survey/behavioral data, with SHAP used to explain *why* the model made a given prediction — not just spit out a number.
+
 **Built with:** Python · Scikit-learn (Random Forest) · SHAP · Streamlit
-The interesting part wasn't training the model — it was making the predictions interpretable enough that a non-technical person could trust them.
 
 ### Retinal Abnormality Detection for Diabetic Retinopathy — *IEEE Published*
 A CNN-based system for early detection of diabetic retinopathy from retinal scans, co-authored and presented at an IEEE conference in 2025.
+
 **Built with:** CNNs · Python
-This is the project I'd point to first if you want to know whether I can take a research problem seriously and see it through to a published result.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dharmateja249&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharmateja249&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dharmateja249&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dharmateja249&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Dharmateja249/Dharmateja249/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
 ## 📫 Let's Connect
 
-- **LinkedIn:** [linkedin.com/in/dharmateja](https://linkedin.com/in/Golla-DharmaTeja) 
-- **Email:** 23211a0599@gmail.com
+<p align="center">
+  <a href="https://linkedin.com/in/Golla-DharmaTeja"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:23211a0599@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-If you're hiring, freelancing out work, or just want to talk about GenAI projects that aren't vaporware — reach out.
+If you're hiring, freelancing out work, or want to talk about GenAI projects that aren't vaporware — reach out.
