@@ -1,36 +1,52 @@
-# Hi, I'm Dharmateja 👋
+# Hey, I'm Dharmateja 👋
 
-Computer Science Undergraduate at BVRIT (CGPA: 8.66)
+Software Engineer focused on fullstack and backend development — currently deep in GenAI, learning to build products that actually use it well instead of bolting a chatbot onto everything.
 
-## About Me
+I like taking a project from "idea on a whiteboard" to something with a working auth flow, a real database, and a link you can click. CS undergrad at BVRIT (CGPA 8.66), and an IEEE-published researcher on the side.
 
-* Interested in Software Engineering, Full-Stack Development, and AI
-* IEEE Conference Author
-* Passionate about building impactful products
+---
 
-## Tech Stack
+## 🔭 Currently
 
-* Languages: C++, Java, Python, C
-* Frontend: HTML, CSS, JavaScript, React.js
-* Backend: Node.js, express.js
-* Database: MongoDB, MySQL
-* Tools: Git, GitHub, JWT, Socket.io
+- Building fullstack projects where GenAI is the core feature, not a gimmick — think document Q&A tools and AI-assisted interview prep, not "ChatGPT wrapper #4,721"
+- Applying for backend/fullstack software engineering internships
+- Open to **remote roles** and **freelance work** — if you need something built, my inbox is open
 
-## Featured Projects
+---
 
-### CollabX – Hackathon Team-up Platform
+## 🛠️ Tech Stack
 
-Full-stack platform for finding hackathon teammates based on skills and interests.
+**Languages:** C++, Java, Python, C
+**Frontend:** React.js, JavaScript, HTML, CSS
+**Backend:** Node.js, Express.js, JWT auth, Socket.io (real-time)
+**Databases:** MongoDB, MySQL
+**ML/Data:** Python, Scikit-learn, SHAP, Streamlit
+**Tools:** Git, GitHub
 
-### Automated Detection and Analysis of Retinal Abnormalities for Early Diabetic Retinopathy
+---
 
-IEEE-published research project using CNNs for diabetic retinopathy detection.
+## 🚀 Projects I'm Proud Of
 
-## Publication
+### [CollabX](https://github.com/Dharmateja249/collabx) — Hackathon Team-Up Platform
+A fullstack platform that helps hackathon participants find teammates by matching on skills and interests, instead of relying on random Discord pings and last-minute scrambling.
+**Built with:** React.js · Node.js · Express.js · MongoDB · Socket.io · JWT
+Handles real-time interactions and auth end-to-end — this is where I actually learned what "full-stack" means beyond the buzzword.
 
-IEEE Conference Publication (2025)
+### Student Mental Health Prediction System
+A machine learning system that predicts student mental health risk factors from survey/behavioral data, with SHAP used to explain *why* the model made a given prediction — not just spit out a number.
+**Built with:** Python · Scikit-learn (Random Forest) · SHAP · Streamlit
+The interesting part wasn't training the model — it was making the predictions interpretable enough that a non-technical person could trust them.
 
-## Connect With Me
+### Retinal Abnormality Detection for Diabetic Retinopathy — *IEEE Published*
+A CNN-based system for early detection of diabetic retinopathy from retinal scans, co-authored and presented at an IEEE conference in 2025.
+**Built with:** CNNs · Python
+This is the project I'd point to first if you want to know whether I can take a research problem seriously and see it through to a published result.
 
-* LinkedIn: https://linkedin.com/in/golla-dharmateja-418258293
-* Email: [dharmateja@bvrit.ac.in](mailto:dharmateja@bvrit.ac.in)
+---
+
+## 📫 Let's Connect
+
+- **LinkedIn:** [linkedin.com/in/dharmateja](https://linkedin.com/in/Golla-DharmaTeja) 
+- **Email:** 23211a0599@gmail.com
+
+If you're hiring, freelancing out work, or just want to talk about GenAI projects that aren't vaporware — reach out.
