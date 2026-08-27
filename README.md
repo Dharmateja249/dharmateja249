@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:22d3ee&height=260&section=header&text=Dharmateja&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Fullstack%20and%20GenAI&descAlignY=58&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:22d3ee&height=260&section=header&text=Dharma%20Teja&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Fullstack%20and%20GenAI&descAlignY=58&descSize=18)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Dharmateja249&color=6366f1&style=flat" alt="Profile Views" />
