@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:22d3ee&height=200&section=header&text=Dharmateja&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20%7C%20Fullstack%20%26%20GenAI&descAlignY=55&descSize=20)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:22d3ee&height=260&section=header&text=Dharmateja&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Fullstack%20and%20GenAI&descAlignY=58&descSize=18)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Dharmateja249&color=6366f1&style=flat" alt="Profile Views" />
@@ -126,8 +126,8 @@ A CNN-based system for early detection of diabetic retinopathy from retinal scan
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dharmateja249&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharmateja249&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats-xi-ten-32.vercel.app/api?username=Dharmateja249&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+  <img src="https://github-readme-stats-xi-ten-32.vercel.app/api/top-langs/?username=Dharmateja249&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
 </p>
 
 <p align="center">
